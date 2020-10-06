@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/matscottseah/TimeCapsule#readme",
   "devDependencies": {
-    "electron": "^8.2.2"
+    "electron": "^8.5.2"
   }
 }
